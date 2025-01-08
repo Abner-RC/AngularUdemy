@@ -12,3 +12,7 @@ dd {
   font-size: 2rem;
   font-weight: bold;
 }
+
+hr {
+  margin-block: 40px;
+}
